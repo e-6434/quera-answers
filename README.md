@@ -1,7 +1,22 @@
-# quera-answers
-پاسخ سوالات کوعرا
 # quera-answers | جواب سوالات کوئرا
+<head>
+<style>
+table {
+  border-collapse: collapse;
+  width: 100%;
+}
 
+th, td {
+  text-align: left;
+  padding: 8px;
+}
+
+tr:nth-child(even) {
+  background-color: #D6EEEE;
+}
+
+</style>
+</head>
  <p>اگر میخواین مشارکت داشته باشید بهم ایمیل بزنید:</p>
 <p>se.erfanebrahimkhani@gmail.com</p>
 
@@ -26,5 +41,8 @@
 
 </table>
 
+
+
+ 
 
 
