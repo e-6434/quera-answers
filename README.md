@@ -19,7 +19,7 @@
 <td  style = " background-color: #D6EEEE;">شطرنج میوه ای </td>
 <td>60134</td>
 <td><a href="https://quera.org/problemset/60134">سوال</td>
-<td><a href="https://github.com/e-6434/quera-answers/blob/9a10290b87aee50ab540ddd203722197426fb5c2/answers/60134.py">جواب</td>
+<td><a href="https://github.com/e-6434/quera-answers/blob/cd9ad3cd614111c13f5f3aa843ab9ff03ad93e9e/answers/%D8%A7%D9%85%20%D8%AA%D8%A7%DB%8C%DB%8C-76278.py">جواب</td>
 </tr>
 
 <tr>
