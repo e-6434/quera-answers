@@ -1,56 +1,62 @@
-<!DOCTYPE html>
-<html>
-<head>
-<style>
-table {
-  border-collapse: collapse;
-  width: 100%;
-}
+# quera-answers | جواب سوالات کوئرا
 
-th, td {
-  text-align: left;
-  padding: 8px;
-}
+ <p>اگر میخواین مشارکت داشته باشید بهم ایمیل بزنید:</p>
+<p>se.erfanebrahimkhani@gmail.com</p>
 
-tr:nth-child(even) {
-  background-color: #D6EEEE;
-}
-</style>
-</head>
-<body>
-
-<h2>Zebra Striped Table</h2>
-<p>For zebra-striped tables, use the nth-child() selector and add a background-color to all even (or odd) table rows:</p>
+<h3> تلگرام:</h3>
+<a href="https://t.me/e_6434">Erfan</a>
+<br>
+<br>
 
 <table>
-  <tr>
-  <th>First Name</th>
-  <th>Last Name</th>
-  <th>Points</th>
-  </tr>
-  <tr>
-  <td>Peter</td>
-  <td>Griffin</td>
-  <td>$100</td>
-  </tr>
-  <tr>
-  <td>Lois</td>
-  <td>Griffin</td>
-  <td>$150</td>
-  </tr>
-  <tr>
-  <td>Joe</td>
-  <td>Swanson</td>
-  <td>$300</td>
-  </tr>
-  <tr>
-  <td>Cleveland</td>
-  <td>Brown</td>
-  <td>$250</td>
-  </tr>
+<th>اسم سوال<ht/>
+<th>کد سوال<ht/>
+<th>لینک سوال<ht/>
+<th>لینک جواب<ht/>
+
+
+<tr>
+<td  style = " background-color: #D6EEEE;">شطرنج میوه ای </td>
+<td>60134</td>
+<td><a href="https://quera.org/problemset/60134">سوال</td>
+<td><a href="https://github.com/e-6434/quera-answers/blob/9a10290b87aee50ab540ddd203722197426fb5c2/answers/60134.py">جواب</td>
+</tr>
+
 </table>
 
-</body>
-</html>
+
+
+ # quera-answers | جواب سوالات کوئرا
+
+ <p>اگر میخواین مشارکت داشته باشید بهم ایمیل بزنید:</p>
+<p>se.erfanebrahimkhani@gmail.com</p>
+
+<h3> تلگرام:</h3>
+<a href="https://t.me/e_6434">Erfan</a>
+<br>
+<br>
+
+<table>
+<th>اسم سوال<ht/>
+<th>کد سوال<ht/>
+<th>لینک سوال<ht/>
+<th>لینک جواب<ht/>
+
+
+<tr>
+<td >شطرنج میوه ای </td>
+<td>60134</td>
+<td><a href="https://quera.org/problemset/60134">سوال</td>
+<td><a href="https://github.com/e-6434/quera-answers/blob/9a10290b87aee50ab540ddd203722197426fb5c2/answers/60134.py">جواب</td>
+</tr>
+
+</table>
+
+
+
+ 
+
+
+
 
 
