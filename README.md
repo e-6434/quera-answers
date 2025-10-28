@@ -22,5 +22,12 @@
 <td><a href="https://github.com/e-6434/quera-answers/blob/9a10290b87aee50ab540ddd203722197426fb5c2/answers/60134.py">جواب</td>
 </tr>
 
+<tr>
+<td  style = " background-color: #D6EEEE;">ام تایی </td>
+<td>60134</td>
+<td><a href="https://quera.org/contest/assignments/21629/problems/76084">سوال</td>
+<td><a href="https://github.com/e-6434/quera-answers/blob/41ba3b20d6fb98cc5a63555a839695133db4eb7f/answers/%D8%A7%D9%85%20%D8%AA%D8%A7%DB%8C%DB%8C-76278.py">جواب</td>
+</tr>
+ 
 </table>
 
